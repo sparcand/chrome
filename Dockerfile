@@ -1,6 +1,6 @@
-FROM ubuntu:18.04
+FROM ubuntu:21.04
 
-LABEL maintainer="Tomohisa Kusano <siomiz@gmail.com>"
+LABEL maintainer="Steve Arcand <steve.arcand@gmail.com>"
 
 ENV VNC_SCREEN_SIZE 1024x768
 
